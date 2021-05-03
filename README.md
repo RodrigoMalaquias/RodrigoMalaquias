@@ -1,6 +1,18 @@
 ### I'm Rodrigo Malaquias 👋
 
-<img alt="Rodrigo github stats" src="https://github-readme-stats.vercel.app/api?username=rodrigomalaquias&hide_border=true&show_icons=true&theme=tokyonight&locale=en"/>
+<table>
+  <tr>
+    <td>
+      <img alt="Rodrigo github stats" src="https://github-readme-stats.vercel.app/api?username=rodrigomalaquias&hide_border=true&show_icons=true&theme=tokyonight&locale=en"/>
+    </td>
+    <td>
+      <img alt="Coding" src="https://data.whicdn.com/images/78391406/original.gif"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 ### Contact-me
