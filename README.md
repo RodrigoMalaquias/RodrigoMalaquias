@@ -4,6 +4,8 @@
 
 
 ### Contact-me
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/rodrigo-malaquias)
+---
+
+<a href="https://www.linkedin.com/in/rodrigo-malaquias/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
