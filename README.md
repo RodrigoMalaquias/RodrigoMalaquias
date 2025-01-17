@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou Rodrigo Malaquias!
 
-Sou desenvolvedor de software apaixonado por tecnologias modernas e soluções inovadoras. Trabalho principalmente com desenvolvimento web e mobile, utilizando ferramentas robustas para criar aplicações eficientes e escaláveis.
+Sou desenvolvedor de software apaixonado por tecnologias modernas e soluções inovadoras. Trabalho principalmente com desenvolvimento web, utilizando ferramentas robustas para criar aplicações eficientes e escaláveis.
 
 ---
 
